@@ -1,1 +1,1 @@
-TODO: https://en.wikipedia.org/wiki/LLVM
+TODO: https://www.learncpp.com/cpp-tutorial/introduction-to-programming-languages/
