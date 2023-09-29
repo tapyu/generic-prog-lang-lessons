@@ -39,12 +39,12 @@ Examples: Python, Ruby, JavaScript, and PHP.
 
 ### Just-in-time (JIT) compiled programming language
 
-The line between compiled and interpreted languages can sometimes blur, and many modern languages use a combination of compilation and interpretation techniques (e.g., Just-In-Time compilation).
-
 Generaly, there are two categories of compilation:
 
 - **Ahead-of-Time (AOT) Compilation**: The entire program is translated into machine code before execution. This is common in languages like C, C++, and Fortran.
 - **Just-In-Time (JIT) Compilation**: Some languages, like Julia, Java and C#, use a combination of compilation and interpretation. Code is initially compiled into an intermediate bytecode, and a JIT compiler translates the bytecode to machine code at runtime.
+
+The line between compiled and interpreted languages can sometimes blur, and many modern languages use a combination of compilation and interpretation techniques (e.g., Just-In-Time compilation). For instance, Matlab is primarily interpreted, as it executes scripts and commands directly without a separate compilation step. However, The MATLAB execution engine, introduced in R2015a, uses JIT compilation to accelerate some parts of the MATLAB code. JIT compilation generates native machine level code that is optimized for your MATLAB code and for specific hardware.
 
 Sources:
 
