@@ -11,7 +11,7 @@ A compiled programming language is a type of programming language in which the s
 
 Key aspects of compiled programming languages:
 
-- **Standalone Executables**: The output of compilation is often a standalone executable file, which can be run independently of the source code and the compiler. However, Compiled executables may still depend on certain system libraries or dynamic-link (DLL) or shared libraries on the target machine. However, these dependencies are typically well-managed and often come bundled with the operating system or are distributed along with the application.
+- **Standalone Executables**: The output of compilation is often a standalone executable file, which can be run independently of the source code and the compiler. Therefore, we can share only the compiled executable, instead of sharing the source code. This enables source privacy, which can be desirable for proprietary softwares. Although compiled executables may still depend on certain system libraries or dynamic-link (DLL) or shared libraries on the target machine, these dependencies are typically well-managed and often come bundled with the operating system or are distributed along with the application.
 - **Efficiency**: Compiled programs are generally more efficient in terms of runtime performance compared to interpreted programs. Since the translation to machine code is done beforehand, there is less overhead during execution.
 - **Ahead-of-Time (AOT) Compilation**: A classic compiled programming language is based on the Ahead-of-Time (AOT) Compilation, where compilation is a separate step that converts the source code into an executable machine code before the program runs.
 - **Static typing**: Many compiled languages are statically typed, meaning that variable types are checked at compile time rather than runtime. This can catch certain types of errors before the program is run.
@@ -22,18 +22,18 @@ Common examples of AOT compiled programming language are `C`, `C++`, `Rust`, `Fo
 
 ### Interpreted programming languages
 
-An interpreted programming language is one where the source code is not compiled into machine code or intermediate representation before execution. Instead, the source code is directly executed by an interpreter. Let's break down the typical process:
+In interpreted programming languages, the source code is typically translated into an intermediate representation known as bytecode. The bytecode is a lower-level, platform-independent representation of the source code. This bytecode is then interpreted by a runtime environment or virtual machine, which executes the program.
 
 - **Source Code**: The programmer writes source code in a high-level programming language.
-- **Interpreter**: The interpreter reads the source code line by line and executes it directly. It translates each line of code into machine code or an intermediate representation on the fly.
-- **Execution**: The interpreted code is executed immediately. There is no separate compilation step to generate a standalone executable file.
+- **Bytecode generation**: The source code is translated into an intermediate bytecode by a compiler or interpreter. Interpreted programming languages may have a compiler, but it plays a different role: this compiler is responsible for translating the high-level source code into an intermediate representation (bytecode), which is not specific to any particular machine architecture, whereas a compiler usually converts the source code into machine code in AOT-compiled programming languages.
+- **Execution**: The bytecode is interpreted and executed by a runtime environment or virtual machine. The interpreter reads and executes the instructions in the bytecode line-by-line.
 
-Key aspects of interpreted progrmming languages
+Key aspects of interpreted programming languages
 
-**Portability**: Since the interpreter runs on the host machine, code can be more portable across different platforms without the need for recompilation.
-**Ease of Development**: Interpreted languages often provide a shorter feedback loop for developers. You can run your code immediately after writing it, without waiting for a lengthy compilation process.
-**Dynamic Typing**: Interpreted languages often use dynamic typing, allowing variables to change types during runtime.
-**Platform Independence**: Interpreted languages are often more platform-independent. As long as there is an interpreter for a particular platform, the same source code can run on different systems.
+- **Portability**: Since the interpreter runs on the host machine, code can be more portable across different platforms without the need for recompilation. We usually share the source code so that the other users' computer interpret it and execute the program.
+- **Ease of Development**: Interpreted languages often provide a shorter feedback loop for developers. You can run your code immediately after writing it, without waiting for a lengthy compilation process.
+- **Dynamic Typing**: Interpreted languages often use dynamic typing, allowing variables to change types during runtime.
+- **Platform Independence**: Interpreted languages are often more platform-independent. As long as there is an interpreter for a particular platform, the same source code can run on different systems.
 
 Examples: Python, Ruby, JavaScript, and PHP.
 
