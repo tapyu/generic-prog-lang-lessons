@@ -25,8 +25,8 @@ Common examples of AOT compiled programming language are `C`, `C++`, `Rust`, `Fo
 In interpreted programming languages, the source code is typically translated into an intermediate representation known as bytecode. The bytecode is a lower-level, platform-independent representation of the source code. This bytecode is then interpreted by a runtime environment or virtual machine, which executes the program.
 
 - **Source Code**: The programmer writes source code in a high-level programming language.
-- **Bytecode generation**: The source code is translated into an intermediate bytecode by a compiler or interpreter. Interpreted programming languages may have a compiler, but it plays a different role: this compiler is responsible for translating the high-level source code into an intermediate representation (bytecode), which is not specific to any particular machine architecture, whereas a compiler usually converts the source code into machine code in AOT-compiled programming languages.
-- **Execution**: The bytecode is interpreted and executed by a runtime environment or virtual machine. The interpreter reads and executes the instructions in the bytecode line-by-line.
+- **Bytecode generation**: The source code is translated into an intermediate representation (often bytecode) by interpreter at runtime.
+- **Execution**: The bytecode is interpreted and executed within a runtime environment or virtual machine. The interpreter reads and executes the instructions in the bytecode line-by-line.
 
 Key aspects of interpreted programming languages
 
