@@ -22,11 +22,10 @@ Common examples of AOT compiled programming language are `C`, `C++`, `Rust`, `Fo
 
 ### Interpreted programming languages
 
-In interpreted programming languages, the source code is typically translated into an intermediate representation known as bytecode. The bytecode is a lower-level, platform-independent representation of the source code. This bytecode is then interpreted within a runtime environment or virtual machine by the interpreter, which executes the program.
+[An][2] interpreter is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. An interpreter generally uses one of the following strategies for program execution:
 
-- **Source Code**: The programmer writes source code in a high-level programming language.
-- **Bytecode generation**: The source code is translated into an intermediate representation (often bytecode) by interpreter at runtime.
-- **Execution**: The bytecode is interpreted and executed within a runtime environment or virtual machine. The interpreter reads and executes the instructions in the bytecode line-by-line.
+- Parse the source code and perform its behavior directly. [In][3] this case, the interpreter is composed of two parts: a parser and an evaluator. After a program is read as input by an interpreter, it is processed by the parser. The parser breaks the program into language components to form a parse tree. The evaluator then uses the parse tree to execute the program.
+- [*Bytecode interpreters*][4]: They translate source code into some efficient intermediate representation or object code and immediately execute that. In this case, the source code is typically translated into an intermediate representation known as bytecode. The bytecode is a lower-level, platform-independent representation of the source code. This bytecode is then interpreted within a runtime environment or virtual machine by the interpreter, which executes the program.
 
 Key aspects of interpreted programming languages
 
@@ -51,3 +50,6 @@ Sources:
 - [learncpp][1]
 
 [1]: https://www.learncpp.com/cpp-tutorial/introduction-to-programming-languages/
+[2]: https://en.wikipedia.org/wiki/Interpreter_(computing)
+[3]: https://en.wikipedia.org/wiki/Programming_language_implementation#Interpreter
+[4]: https://en.wikipedia.org/wiki/Interpreter_(computing)#Bytecode_interpreters
