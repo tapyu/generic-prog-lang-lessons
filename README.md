@@ -14,6 +14,7 @@ More info:
 TODO:
 
 - https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
+- https://leetcode.com/tag/divide-and-conquer/
 - Cormen: Introduction to algorithms, chap 4
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
