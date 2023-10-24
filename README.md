@@ -9,11 +9,12 @@ More info:
 
 ---
 
-## Divide-and-conquer
+## Dynamic programming
 
 TODO:
 
-- https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
-- Cormen: Introduction to algorithms, chap 4
+- https://en.wikipedia.org/wiki/Dynamic_programming
+- Cormen: Introduction to algorithms, chap 14
+- https://leetcode.com/tag/dynamic-programming/
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
