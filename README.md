@@ -12,13 +12,12 @@ More info:
 
 ---
 
-## Backtracking (Depth-First Search)
+## Sliding window
 
 TODO:
 
-- https://en.wikipedia.org/wiki/Backtracking
-- Cormen: Introduction to algorithms, sec. 20.3
-- Rosen, Kenneth H - Discrete mathematics and its applications, sec 11.4.2 
-- https://leetcode.com/tag/backtracking/
+- https://medium.com/@rishu__2701/mastering-sliding-window-techniques-48f819194fd7
+- https://www.geeksforgeeks.org/window-sliding-technique/
+- https://leetcode.com/tag/sliding-window/
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
