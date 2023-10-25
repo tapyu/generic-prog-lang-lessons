@@ -12,7 +12,7 @@ More info:
 
 ---
 
-## Backtracking (Depth-First Search)
+## Backtracking (also known as Depth-First Search)
 
 TODO:
 
