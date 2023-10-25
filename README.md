@@ -45,4 +45,8 @@ General ref:
 
 - Thomas H. Cormen - Introduction to Algorithms, sec 22.1
 
+## Viterbi algorithm
+
+See my master thesis.
+
 [1]: https://en.wikipedia.org/wiki/List_of_algorithms
