@@ -20,5 +20,6 @@ TODO:
 - https://leetcode.com/tag/divide-and-conquer/
 - https://en.wikipedia.org/wiki/Algorithm#By_design_paradigm
 - Cormen: Introduction to algorithms, chap 4
+- Rosen, Kenneth H - Discrete mathematics and its applications, sec 8.3
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
