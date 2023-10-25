@@ -8,6 +8,7 @@ More info:
 - https://www.designgurus.io/blog/Grokking-the-Coding%20Interview-Patterns
 - https://interviewnoodle.com/top-leetcode-patterns-for-faang-coding-interviews-bdbe8766534c
 - https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+- Rosen, Kenneth H - Discrete mathematics and its applications - Sec. 3.3.4
 
 ---
 
