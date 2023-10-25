@@ -1,29 +1,33 @@
-## Algorithmic paradigm
-
-[An algorithmic][1] paradigm or algorithm design paradigm is a generic model or framework which underlies the design of a class of algorithms. An algorithmic paradigm is an abstraction higher than the notion of an algorithm, just as an algorithm is an abstraction higher than a computer program.
-
-More info:
-
-- https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb?gi=097845554131
-- https://www.designgurus.io/blog/Grokking-the-Coding%20Interview-Patterns
-- https://interviewnoodle.com/top-leetcode-patterns-for-faang-coding-interviews-bdbe8766534c
-- https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
-- Rosen, Kenneth H - Discrete mathematics and its applications - Sec. 3.3.4
-
----
+## Depth-First search (DFS)
 
 ## Backtracking
 
-### Depth-First search (DFS)
+## Breadth-first search (BFS)
+
+## Prim's algorithm
+
+## Kruskal’s Algorithm
+
+## Dijkstra’s algorithm
+
+## iterative deepening depth-first search (IDDFS) 
+
 
 TODO:
 
 - https://en.wikipedia.org/wiki/Backtracking
+- https://en.wikipedia.org/wiki/Breadth-first_search
 - https://en.wikipedia.org/wiki/Depth-first_search
-- Cormen: Introduction to algorithms, sec. 20.3
-- Rosen, Kenneth H - Discrete mathematics and its applications, sec 11.4.2 
+- https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
+- https://en.wikipedia.org/wiki/Graph_traversal
+- https://en.wikipedia.org/wiki/Tree_traversal
+- Cormen: Introduction to algorithms
+  - sec. 20.2, 20.3
+- Rosen, Kenneth H - Discrete mathematics and its applications
+  - sec 11.4.2, 11.4.3, 11.4.4, 11.4.5, 11.4.6 
+- Stuart J. Russell - Artificial Intelligence_ A Modern Approach, Global Edition
+  - chap 3
 - https://leetcode.com/tag/backtracking/
 - https://leetcode.com/tag/depth-first-search/
+- https://stackoverflow.com/questions/1294720/whats-the-difference-between-backtracking-and-depth-first-search
 
-[1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
-[2]: https://stackoverflow.com/questions/1294720/whats-the-difference-between-backtracking-and-depth-first-search/1294741#1294741
