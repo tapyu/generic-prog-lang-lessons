@@ -1,9 +1,12 @@
+Uninformed search algorithms typically do not use specific cost information associated with each edge in the search space. These algorithms make decisions solely based on the structure of the search space and do not use any domain-specific knowledge to find the goal node.
+
 General ref:
 
 - https://en.wikipedia.org/wiki/List_of_algorithms
 - https://en.wikipedia.org/wiki/Graph_traversal
 - https://en.wikipedia.org/wiki/Tree_traversal
 - https://stackoverflow.com/questions/1294720/whats-the-difference-between-backtracking-and-depth-first-search
+- Stuart J. Russell - Artificial Intelligence_ A Modern Approach, Global Edition, sec 3.3, 3.4, and the beginning of chap 3
 
 ## Breadth-first search (BFS)
 
@@ -27,10 +30,6 @@ General ref:
 - https://leetcode.com/tag/backtracking/
 - Stuart J. Russell - Artificial Intelligence_ A Modern Approach, Global Edition, sec 3.4.3
 
-## Dijkstra’s algorithm
-
-- Stuart J. Russell - Artificial Intelligence_ A Modern Approach, Global Edition, sec 3.4.2
-
 ## iterative deepening depth-first search (IDDFS) 
 
 - https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
@@ -40,5 +39,3 @@ General ref:
 
 - https://en.wikipedia.org/wiki/Bidirectional_search
 - Stuart J. Russell - Artificial Intelligence_ A Modern Approach, Global Edition, sec 3.4.5
-
-
