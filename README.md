@@ -20,5 +20,6 @@ TODO:
 - Cormen: Introduction to algorithms, sec. 20.3
 - Rosen, Kenneth H - Discrete mathematics and its applications, sec 11.4.2 
 - https://leetcode.com/tag/backtracking/
+- https://leetcode.com/tag/depth-first-search/
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
