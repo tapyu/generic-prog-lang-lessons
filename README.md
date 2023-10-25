@@ -14,6 +14,7 @@ General ref:
 - https://stackoverflow.com/questions/1294720/whats-the-difference-between-backtracking-and-depth-first-search
 - Stuart J. Russell - Artificial Intelligence_ A Modern Approach, Global Edition, sec 3.3, 3.5, and the beginning of chap 3
 - Thomas H. Cormen - Introduction to Algorithms, beginning of the chapter 4
+- https://en.wikipedia.org/wiki/Shortest_path_problem
 
 ## Best-first search
 
