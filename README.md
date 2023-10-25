@@ -8,6 +8,14 @@ General ref:
 - https://stackoverflow.com/questions/1294720/whats-the-difference-between-backtracking-and-depth-first-search
 - Stuart J. Russell - Artificial Intelligence_ A Modern Approach, Global Edition, sec 3.3, 3.4, and the beginning of chap 3
 
+## Islands (Matrix Traversal)
+
+- https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb?gi=07e6588659ce
+- Cormen: Introduction to algorithms, sec 20.1
+
+- https://leetcode.com/problems/number-of-islands/
+- https://leetcode.com/problems/flood-fill/
+
 ## Breadth-first search (BFS)
 
 - https://en.wikipedia.org/wiki/Breadth-first_search
