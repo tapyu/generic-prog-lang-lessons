@@ -12,12 +12,13 @@ More info:
 
 ---
 
-## Dynamic programming
+## Backtracking (Depth-First Search)
 
 TODO:
 
-- https://en.wikipedia.org/wiki/Dynamic_programming
-- Cormen: Introduction to algorithms, chap 14
-- https://leetcode.com/tag/dynamic-programming/
+- https://en.wikipedia.org/wiki/Backtracking
+- Cormen: Introduction to algorithms, sec. 20.3
+- Rosen, Kenneth H - Discrete mathematics and its applications, sec 11.4.2 
+- https://leetcode.com/tag/backtracking/
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
