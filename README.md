@@ -36,7 +36,6 @@ General ref:
 - Thomas H. Cormen - Introduction to Algorithms, sec 22.3
 - Rosen, Kenneth H - Discrete mathematics and its applications, sec 10.6
 
-
 ## Floyd–Warshall algorithm
 
 - Thomas H. Cormen - Introduction to Algorithms, sec 23.2
