@@ -1,5 +1,6 @@
 General ref:
 
+- https://en.wikipedia.org/wiki/List_of_algorithms
 - https://en.wikipedia.org/wiki/Graph_traversal
 - https://en.wikipedia.org/wiki/Tree_traversal
 - https://stackoverflow.com/questions/1294720/whats-the-difference-between-backtracking-and-depth-first-search
