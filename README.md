@@ -1,4 +1,9 @@
-This branch refers general approaches to search (traverse) linked arrays.
+This branch refers to general approaches to linked arrays, whether they are sorted or not. They include:
+- Array element search (traverse)
+- Subarray search
+- Cycle detection
+- Merge arrays
+- Sort array
 
 ## Two pointers
 
@@ -16,6 +21,9 @@ This branch refers general approaches to search (traverse) linked arrays.
 While "Two Pointers" is a general technique involving two pointers, "Fast and Slow pointers" is a specific instance of this technique where the pointers move at different speeds. The Fast and Slow pointers technique is often associated with linked list problems, but the Two Pointers technique can be applied to a broader range of algorithmic problems. By moving at different speeds (say, in a cyclic linked list), the algorithm proves that the two pointers are bound to meet.
 
 - https://en.wikipedia.org/wiki/Cycle_detection
+- https://leetcode.com/problems/middle-of-the-linked-list/
+- https://leetcode.com/problems/happy-number/
+- https://leetcode.com/problems/circular-array-loop/
 
 ### Floyd's cycle-finding algorithm (also known as Hare & Tortoise algorithm)
 
@@ -25,13 +33,31 @@ The "tortoise and hare algorithm" is often used as a colloquial term for Floyd's
 
 ### Sliding window
 
-TODO:
-
 - https://medium.com/@rishu__2701/mastering-sliding-window-techniques-48f819194fd7
 - https://www.geeksforgeeks.org/window-sliding-technique/
 - https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed#4a09
 - https://www.designgurus.io/blog/Grokking-the-Coding%20Interview-Patterns
 - https://leetcode.com/tag/sliding-window/
+- https://leetcode.com/problems/fruit-into-baskets/
+- https://www.codingninjas.com/studio/problems/longest-substring-with-at-most-k-distinct-characters_2221410
+
+
+### Merge Intervals
+
+- https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed#4fd7
+- https://www.codingninjas.com/studio/library/given-n-appointments-find-all-conflicting-appointments
+- https://leetcode.com/problems/merge-intervals/
+- https://www.javatpoint.com/minimum-number-of-meeting-room-required-problem-in-java
+- https://www.geeksforgeeks.org/merging-intervals/
+
+
+### Cyclic sort
+
+- https://en.wikipedia.org/wiki/Cycle_sort
+- https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed#4a09
+- https://leetcode.com/problems/kth-missing-positive-number/
+- https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+- https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
 [2]: https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed#67d7
