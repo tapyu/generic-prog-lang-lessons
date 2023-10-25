@@ -28,7 +28,7 @@ General ref:
 - https://en.wikipedia.org/wiki/Backtracking
 - Rosen, Kenneth H - Discrete mathematics and its applications, sec 11.4.4
 - https://leetcode.com/tag/backtracking/
-- Stuart J. Russell - Artificial Intelligence_ A Modern Approach, Global Edition, sec 3.4.3
+- Stuart J. Russell - Artificial Intelligence_ A Modern Approach, Global Edition, sec 3.4.3, 5.3
 
 ## iterative deepening depth-first search (IDDFS) 
 
