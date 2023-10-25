@@ -14,7 +14,7 @@ More info:
 
 ## Backtracking
 
-### Depth-First search
+### Depth-First search (DFS)
 
 While [backtracking][2] is a more general purpose algorithm, depth-First search is a specific form of backtracking related to searching tree structures. It starts at the root (selecting some node as the root in the graph case) and explores as far as possible along each branch before backtracking. It uses backtracking as part of its means of working with a tree, but is limited to a tree structure.
 
