@@ -12,8 +12,8 @@ More info:
 
 ---
 
-## Brute-force algorithmic paradigm
+## Branch-and-bound algorithmic paradigm
 
-- https://en.wikipedia.org/wiki/Brute-force_search
+- https://en.wikipedia.org/wiki/Branch_and_bound
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
