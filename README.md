@@ -7,6 +7,10 @@ This branch refers to general approaches to linked arrays, whether they are sort
 
 - https://www.youtube.com/watch?v=8hly31xKli0&ab_channel=freeCodeCamp.org
 
+---
+
+# Array traverse
+
 ## Two pointers
 
 "Two Pointers" is a technique where you use two pointers that iterate through the data structure (such as an array or linked list) at different speeds. The pointers can move towards each other, away from each other, or in some other pattern.
@@ -44,6 +48,10 @@ The "tortoise and hare algorithm" is often used as a colloquial term for Floyd's
 - https://www.codingninjas.com/studio/problems/longest-substring-with-at-most-k-distinct-characters_2221410
 
 
+---
+
+# Merge arrays
+
 ### Merge Intervals
 
 - https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed#4fd7
@@ -52,6 +60,18 @@ The "tortoise and hare algorithm" is often used as a colloquial term for Floyd's
 - https://www.javatpoint.com/minimum-number-of-meeting-room-required-problem-in-java
 - https://www.geeksforgeeks.org/merging-intervals/
 
+---
+
+# Array sorting algorithms
+
+
+### Heapsort
+
+- Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to Algorithms - chap 6
+
+### Quicksort
+
+- Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to Algorithms - chap 7
 
 ### Cyclic sort
 
