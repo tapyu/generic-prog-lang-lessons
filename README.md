@@ -5,6 +5,8 @@ This branch refers to general approaches to linked arrays, whether they are sort
 - Merge arrays
 - Sort array
 
+- https://www.youtube.com/watch?v=8hly31xKli0&ab_channel=freeCodeCamp.org
+
 ## Two pointers
 
 "Two Pointers" is a technique where you use two pointers that iterate through the data structure (such as an array or linked list) at different speeds. The pointers can move towards each other, away from each other, or in some other pattern.
