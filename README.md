@@ -52,26 +52,59 @@ The "tortoise and hare algorithm" is often used as a colloquial term for Floyd's
 
 # Merge arrays
 
+- https://en.wikipedia.org/wiki/Merge_algorithm
+
 ### Merge Intervals
 
 - https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed#4fd7
+- https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/63923b23510946c22edc2e0a
 - https://www.codingninjas.com/studio/library/given-n-appointments-find-all-conflicting-appointments
 - https://leetcode.com/problems/merge-intervals/
 - https://www.javatpoint.com/minimum-number-of-meeting-room-required-problem-in-java
 - https://www.geeksforgeeks.org/merging-intervals/
 
+### k-way merge algorithm
+
+- https://en.wikipedia.org/wiki/K-way_merge_algorithm
+
 ---
 
 # Array sorting algorithms
 
+https://en.wikipedia.org/wiki/Sorting_algorithm
+
+### Insertion sort
+
+- Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to Algorithms - sec 2.1
+- https://en.wikipedia.org/wiki/Insertion_sort
+
+From chatGPT:
+- InsertionSort has a time complexity of O(n^2) but can be efficient for small datasets.
+- It's an in-place sorting algorithm and is often used for partially sorted data.
 
 ### Heapsort
 
 - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to Algorithms - chap 6
+- https://en.wikipedia.org/wiki/Heapsort
+
+From chatGPT:
+- HeapSort has an average and worst-case time complexity of O(n log n).
+- It's an in-place sorting algorithm that does not require additional memory for sorting.
+- HeapSort is not as commonly used as QuickSort or MergeSort in practice.
+
+From chatGPT:
+- HeapSort has an average and worst-case time complexity of O(n log n).
+- It's an in-place sorting algorithm that does not require additional memory for sorting.
+- HeapSort is not as commonly used as QuickSort or MergeSort in practice.
 
 ### Quicksort
 
 - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to Algorithms - chap 7
+
+From chatGPT:
+- QuickSort is often considered one of the fastest sorting algorithms.
+- It has an average-case time complexity of O(n log n), making it efficient for large datasets.
+- QuickSort is an "in-place" algorithm, meaning it doesn't require additional memory.
 
 ### Cyclic sort
 
@@ -80,6 +113,25 @@ The "tortoise and hare algorithm" is often used as a colloquial term for Floyd's
 - https://leetcode.com/problems/kth-missing-positive-number/
 - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 - https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+
+From chatGPT:
+- Cyclic Sort is an in-place sorting algorithm, meaning it doesn't require additional memory proportional to the input size.
+- The time complexity of Cyclic Sort is O(n), making it efficient for sorting when the range of values is known.
+- Cyclic Sort is particularly useful when sorting an array of integers within a specific known range. It efficiently places each element in its correct position in a cyclic manner.
+
+### Block sort
+
+- https://en.wikipedia.org/wiki/Block_sort
+
+### Merge sort (by John Von Neumann <3)
+
+- https://en.wikipedia.org/wiki/Merge_sort
+
+From chat GPT:
+- MergeSort has a stable O(n log n) time complexity.
+- It's a "divide and conquer" algorithm that is not in-place, meaning it requires additional memory for merging.
+- MergeSort is known for its predictability and is suitable for linked lists
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
 [2]: https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed#67d7
