@@ -12,8 +12,8 @@ More info:
 
 ---
 
-## Branch-and-bound algorithmic paradigm
+## Recursion
 
-- https://en.wikipedia.org/wiki/Branch_and_bound
+- https://en.wikipedia.org/wiki/Recursion_(computer_science)
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
