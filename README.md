@@ -12,8 +12,8 @@ More info:
 
 ---
 
-## Backtracking
+## Brute-force algorithmic paradigm
 
-- https://en.wikipedia.org/wiki/backtracking
+- https://en.wikipedia.org/wiki/Brute-force_search
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
