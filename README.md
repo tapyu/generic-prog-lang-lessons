@@ -20,3 +20,6 @@
 - **Deques (Double-ended Queues)**: An ordered set of elements in which elements can be inserted or removed from either end.
 - **Skip List**: A data structure that allows fast search within an ordered sequence of elements.
 - **Union-Find (Disjoint Set)**: A data structure that keeps track of a set of elements partitioned into a number of disjoint (non-overlapping) subsets.
+
+
+- https://www.youtube.com/watch?v=8hly31xKli0&ab_channel=freeCodeCamp.org
