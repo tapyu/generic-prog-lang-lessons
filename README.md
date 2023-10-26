@@ -61,6 +61,7 @@ The "tortoise and hare algorithm" is often used as a colloquial term for Floyd's
 - https://www.codingninjas.com/studio/library/given-n-appointments-find-all-conflicting-appointments
 - https://leetcode.com/problems/merge-intervals/
 - https://www.javatpoint.com/minimum-number-of-meeting-room-required-problem-in-java
+- https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20%20Pattern%2004%20:%20Merge%20Intervals.md
 - https://www.geeksforgeeks.org/merging-intervals/
 
 ### k-way merge algorithm
