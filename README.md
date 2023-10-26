@@ -12,14 +12,8 @@ More info:
 
 ---
 
-## Divide-and-conquer
+## Backtracking
 
-TODO:
-
-- https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
-- https://leetcode.com/tag/divide-and-conquer/
-- https://en.wikipedia.org/wiki/Algorithm#By_design_paradigm
-- Cormen: Introduction to algorithms, chap 4
-- Rosen, Kenneth H - Discrete mathematics and its applications, sec 8.3
+- https://en.wikipedia.org/wiki/backtracking
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
