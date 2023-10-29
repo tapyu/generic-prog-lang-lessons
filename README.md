@@ -64,3 +64,10 @@ More info:
 - https://leetcode.com/tag/greedy/
 - Cormen: Introduction to algorithms, chap 15
 - https://en.wikipedia.org/wiki/Algorithm#Optimization_problems
+
+
+---
+
+ TODO
+
+https://stackoverflow.com/questions/1294720/whats-the-difference-between-backtracking-and-depth-first-search/1294741
