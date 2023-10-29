@@ -1,3 +1,6 @@
+Reference book: Cormen - Introduction to algorithms
+
+
 - **Arrays**: A collection of elements identified by index or key, its size is fixed once it is created, that is, you cannot delete, create, or change the order of an element array. However, you can change the element value.
 - **Linked Lists**: A collection of nodes, where each node contains data and a pointer to the next node. You can delete, create, or change the order of a linked list element. If it is a *doubly linked list*, each node contains a pointer to the next and the previous node,
   - **Stacks**: Special dace of linked list which works in Last In First Out (LIFO) manner.
