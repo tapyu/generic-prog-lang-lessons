@@ -12,8 +12,55 @@ More info:
 
 ---
 
+## Divide-and-conquer
+
+- https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
+- https://leetcode.com/tag/divide-and-conquer/
+- https://en.wikipedia.org/wiki/Algorithm#By_design_paradigm
+- Cormen: Introduction to algorithms, chap 4
+- Rosen, Kenneth H - Discrete mathematics and its applications, sec 8.3
+
+---
+
 ## Recursion
 
 - https://en.wikipedia.org/wiki/Recursion_(computer_science)
 
 [1]: https://en.wikipedia.org/wiki/Algorithmic_paradigm
+
+
+---
+
+## Backtracking
+
+- https://en.wikipedia.org/wiki/backtracking
+
+---
+
+## Branch-and-bound algorithmic paradigm
+
+- https://en.wikipedia.org/wiki/Branch_and_bound
+
+---
+
+## Brute-force algorithmic paradigm
+
+- https://en.wikipedia.org/wiki/Brute-force_search
+
+---
+
+## Dynamic programming
+
+- https://en.wikipedia.org/wiki/Dynamic_programming
+- Cormen: Introduction to algorithms, chap 14
+- https://en.wikipedia.org/wiki/Algorithm#Optimization_problems
+- https://leetcode.com/tag/dynamic-programming/
+
+---
+
+## Greedy algorithm
+
+- https://en.wikipedia.org/wiki/Greedy_algorithm
+- https://leetcode.com/tag/greedy/
+- Cormen: Introduction to algorithms, chap 15
+- https://en.wikipedia.org/wiki/Algorithm#Optimization_problems
