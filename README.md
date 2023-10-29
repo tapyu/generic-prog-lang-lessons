@@ -1,3 +1,6 @@
+# Compiled vs. Interpreted vs. JIT compiled programming languages
+
+
 ### Compiled programming languages
 
 A compiled programming language is a type of programming language in which the source code is translated into machine code or an intermediate code by a compiler before execution. The compilation process typically involves several stages, including lexical analysis, syntax analysis, optimization, and code generation. Here's a brief overview of the key concepts:
@@ -48,6 +51,12 @@ The line between compiled and interpreted languages can sometimes blur, and many
 Sources:
 
 - [learncpp][1]
+
+---
+
+# LLVM
+
+https://en.wikipedia.org/wiki/LLVM
 
 [1]: https://www.learncpp.com/cpp-tutorial/introduction-to-programming-languages/
 [2]: https://en.wikipedia.org/wiki/Interpreter_(computing)
