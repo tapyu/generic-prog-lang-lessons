@@ -55,6 +55,8 @@ More info:
 - Cormen: Introduction to algorithms, chap 14
 - https://en.wikipedia.org/wiki/Algorithm#Optimization_problems
 - https://leetcode.com/tag/dynamic-programming/
+1. example:
+- https://en.wikipedia.org/wiki/Viterbi_algorithm#:~:text=The%20Viterbi%20algorithm%20is%20a,hidden%20Markov%20models%20(HMM).
 
 ---
 
