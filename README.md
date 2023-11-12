@@ -1,10 +1,6 @@
-# generic-prog-lang-lessons
-Programming language lessons on generic topics through small codes with README.md explanations
+# Testing
 
-
-Information about algorithms commonly used in coding interviews:
-
-- https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb?gi=097845554131
-- https://www.designgurus.io/blog/Grokking-the-Coding%20Interview-Patterns
-- https://interviewnoodle.com/top-leetcode-patterns-for-faang-coding-interviews-bdbe8766534c
-- https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+### Different Types of Tests
+- **Unit Tests**: Unit tests are the easiest tests to write because you can expect specific results for your input. There are no dependencies or complex interactions.
+- **Integration** Tests: Integration tests are more complex than unit tests because you have to deal with dependencies.
+- **End-To-End Tests**: End-to-end tests simulate a specific user interaction flow with your app. For example, clicking or entering text.
