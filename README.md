@@ -1,4 +1,4 @@
-This branch refers to general approaches to linked arrays, whether they are sorted or not. They include:
+This branch refers to general approaches to do things in linked arrays, whether they are sorted or not. They include:
 - Array element search (traverse)
 - Subarray search
 - Cycle detection
@@ -86,6 +86,7 @@ From chatGPT:
 ### Heapsort
 
 - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to Algorithms - chap 6
+- Press, W.H., 2007. Numerical recipes 3rd edition: The art of scientific computing. Cambridge university press - 8.3.
 - https://en.wikipedia.org/wiki/Heapsort
 
 From chatGPT:
@@ -101,6 +102,7 @@ From chatGPT:
 ### Quicksort
 
 - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to Algorithms - chap 7
+- Press, W.H., 2007. Numerical recipes 3rd edition: The art of scientific computing. Cambridge university press - 8.3.
 
 From chatGPT:
 - QuickSort is often considered one of the fastest sorting algorithms.
