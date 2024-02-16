@@ -102,7 +102,7 @@ From chatGPT:
 ### Quicksort
 
 - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to Algorithms - chap 7
-- Press, W.H., 2007. Numerical recipes 3rd edition: The art of scientific computing. Cambridge university press - 8.3.
+- Press, W.H., 2007. Numerical recipes 3rd edition: The art of scientific computing. Cambridge university press - 8.2.
 
 From chatGPT:
 - QuickSort is often considered one of the fastest sorting algorithms.
